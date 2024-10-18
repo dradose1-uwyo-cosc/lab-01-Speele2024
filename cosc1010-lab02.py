@@ -8,6 +8,8 @@
 # comments
 # here
 
+test = "test"
+
 your_variable_here = "when you see this, replace it with your code"
 
 ## Section ONE
